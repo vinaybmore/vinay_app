@@ -1,0 +1,38 @@
+.Main1 {
+    
+    
+    width: 75%;
+    position:fix;
+    padding: 10px;
+    height: 460px;
+    background:rgb(69, 179, 189);
+    display: flex;
+  }
+
+.table1{
+    width:100%;
+}
+
+.Blog1 {
+
+     
+     background-color: silver;
+     position: center;
+     padding-left: 2%;
+     padding-right: 5px;
+     width: 90%;
+     height: 430px;
+     font-size: 10px;
+
+}  
+
+
+
+
+.App-logo1 {
+    height: 200px;
+    width: 240px;
+  }
+  
+  
+
